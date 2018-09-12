@@ -3,6 +3,7 @@ node_modules
 
 # App packaged
 dist/
+build/
 
 # OSX
 .DS_Store
